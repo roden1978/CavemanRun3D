@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LoadCamera
+  m_EditorClassIdentifier: 
+  m_GroupName: LoadCamera
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d64a75eed290ff048b175d8f34c1e723
+  m_SerializeEntries:
+  - m_GUID: 395120db9354fa94a9c5bbae95d5f20c
+    m_Address: CameraLoadData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f6166e25170ee844b2d5a7cd5092e87
+    m_Address: MainCamera.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 092b6313807db40e39015dd890221d5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ace4297eafa91de4baa3c404b7d1557a, type: 2}
+    - {fileID: 11400000, guid: 896ee136dbd32a24d87850b7e1df6d8c, type: 2}

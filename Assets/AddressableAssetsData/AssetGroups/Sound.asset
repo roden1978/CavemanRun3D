@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sound
+  m_EditorClassIdentifier: 
+  m_GroupName: Sound
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7ccc5d8326b5a2942825c732bb82bca0
+  m_SerializeEntries:
+  - m_GUID: 594b4467f49e1834f9d9659ba2c01f02
+    m_Address: SoundEffects.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 042c6d742cc75634abcf8413e6df579c
+    m_Address: MusicLoadData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b001915f92d1f44da6f0d9f12b5f489
+    m_Address: BackgroundMusic.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 295bf4a22d3a3f84c901f7074067fa01
+    m_Address: SoundEffectsLoadData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 092b6313807db40e39015dd890221d5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5b48b1440539be44eb0e790d0ce384e7, type: 2}
+    - {fileID: 11400000, guid: d8955a74ba317e7489af9a78fe370b1c, type: 2}

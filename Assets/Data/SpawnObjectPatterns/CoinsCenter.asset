@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a93b75fd27e23440a6a70978566198f, type: 3}
+  m_Name: CoinsCenter
+  m_EditorClassIdentifier: 
+  PatternGroup: 10
+  ObjectSpawners:
+  - Id: CoinSpawnMarker_da387d17-16d4-4851-b8e1-6d078affff59
+    Name: CoinsCenter-CoinsCenter-CoinsCenter-CoinsCenter-CoinsCenter-CoinsCenter-CoinSpawnMarker
+      (2)
+    GameObjectsTypeId: 2
+    LocalPosition: {x: 0, y: 0, z: -3}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Id: CoinSpawnMarker_da387d17-16d4-4851-b8e1-6d078affff59
+    Name: CoinsCenter-CoinsCenter-CoinsCenter-CoinsCenter-CoinsCenter-CoinsCenter-CoinSpawnMarker
+      (3)
+    GameObjectsTypeId: 2
+    LocalPosition: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Id: CoinSpawnMarker_da387d17-16d4-4851-b8e1-6d078affff59
+    Name: CoinsCenter-CoinsCenter-CoinsCenter-CoinsCenter-CoinsCenter-CoinsCenter-CoinSpawnMarker
+      (4)
+    GameObjectsTypeId: 2
+    LocalPosition: {x: 0, y: 0, z: 3}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+  TunnelPrefabName: ETunnel

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Postprocessing
+  m_EditorClassIdentifier: 
+  m_GroupName: Postprocessing
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 656761be22bdc4e82986b9bb763e6324
+  m_SerializeEntries:
+  - m_GUID: e08e45d4227e24ab8a64be27df508623
+    m_Address: Global Volume.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0fabe3c3e6f9f40f684a2006bb457b2b
+    m_Address: PostProcessingData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 092b6313807db40e39015dd890221d5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5b17871826ccd4eb5818e2ee6986be8c, type: 2}
+    - {fileID: 11400000, guid: 6083d54ad19e144dc855a853dedfe14e, type: 2}

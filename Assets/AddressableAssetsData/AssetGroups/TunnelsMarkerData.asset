@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: TunnelsMarkerData
+  m_EditorClassIdentifier: 
+  m_GroupName: TunnelsMarkerData
+  m_Data:
+    m_SerializedData: []
+  m_GUID: be138c66ec347064f95dbc60552dc2a4
+  m_SerializeEntries:
+  - m_GUID: f3cf216a637dd3d40ab35b67f505e222
+    m_Address: ETunnel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 410889ba3b780424db18f5ddea9d8f64
+    m_Address: MTunnel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb2594f6d38181046b3a76eb2e2150c0
+    m_Address: HTunnel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 092b6313807db40e39015dd890221d5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 53eb77446bf25e74bb6bbc125d9228e7, type: 2}
+    - {fileID: 11400000, guid: d480fbfd5a524c942962d8e2bd46f85f, type: 2}

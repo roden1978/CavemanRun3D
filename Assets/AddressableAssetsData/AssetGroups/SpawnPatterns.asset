@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SpawnPatterns
+  m_EditorClassIdentifier: 
+  m_GroupName: SpawnPatterns
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 48b32da52a17b44469f97e81f1a75df2
+  m_SerializeEntries:
+  - m_GUID: 69a11ec2cd884ea40a5e942906478a98
+    m_Address: EmptyPlatform.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SpawnPattern
+  - m_GUID: 9f382e53975b8184eb555bea9b5764f2
+    m_Address: WallLampPattern.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SpawnPattern
+  - m_GUID: 5580021a2ebfead42b6df4c022f3037b
+    m_Address: CoinsCenter.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SpawnPattern
+  - m_GUID: 8490220c28981a449ba7432c1cfa9ff9
+    m_Address: CoinsFull.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SpawnPattern
+  - m_GUID: ac1faa51954d9bb4692bb2bc3cfe8a2b
+    m_Address: CoinsLeft.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SpawnPattern
+  - m_GUID: 6939f9d87900b864d96dac75d4534636
+    m_Address: CoinsRight.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SpawnPattern
+  - m_GUID: 1d1fe7d3a74469541885b92fdb7ed072
+    m_Address: PillarLampPattern.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SpawnPattern
+  - m_GUID: 946d670f22ee0664f9183675e3b2c1fe
+    m_Address: WrenchLeft.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SpawnPattern
+  - m_GUID: f49f6bc18306a814aa421a24b5d6f1b8
+    m_Address: WrenchCenter.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SpawnPattern
+  - m_GUID: e922737949f4d774d9930d065a23cd1b
+    m_Address: WrenchRight.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SpawnPattern
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 092b6313807db40e39015dd890221d5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7bafe1a314bb426439ee244b78ada5e6, type: 2}
+    - {fileID: 11400000, guid: a1b002c259418ef4288b798e64f2ced4, type: 2}

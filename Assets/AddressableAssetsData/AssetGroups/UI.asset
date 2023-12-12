@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1db2f8f820e7f4d6388d23a814ad5104
+  m_SerializeEntries:
+  - m_GUID: 7188fe3e5e3464f3f9b219f361ccdcca
+    m_Address: UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 915d3668353c24f15add6943ca38c61f
+    m_Address: MenuBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b421b35b241c64eb7a5a7e76847ec568
+    m_Address: Menu_Pause
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9704925d730424e6a8e1e246cada3c96
+    m_Address: Menu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2fbd9b2f73b34be68dabfa59f0a3436
+    m_Address: ShowMenuBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b97e4ff84331f4f29a27950cedc44bad
+    m_Address: MenuDeath
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c839e7dfe4ca341868a3b9c9b2a71d07
+    m_Address: SettingMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9c6538f1cb7545c0a709b8d26a34153
+    m_Address: Menu_Setting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 092b6313807db40e39015dd890221d5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 84f5e957af3994b9598451ec4f501411, type: 2}
+    - {fileID: 11400000, guid: 34452423cd601478487d8630fbb01bba, type: 2}

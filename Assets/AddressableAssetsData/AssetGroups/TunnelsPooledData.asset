@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: TunnelsPooledData
+  m_EditorClassIdentifier: 
+  m_GroupName: TunnelsPooledData
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c552403ae290c8243b9e3bb7d01b379a
+  m_SerializeEntries:
+  - m_GUID: 87358acf16a01e14187e3d8e8f5d5cb5
+    m_Address: HTunnel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98e3549835ac2be40bb146ac2cb98f42
+    m_Address: MTunnel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eda314ffede1d3243afeb6302fc715e8
+    m_Address: ETunnel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a69d0570b061504e8b44c195922e2cd
+    m_Address: TunnelsDropDown.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 092b6313807db40e39015dd890221d5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4cbbfbaa37283d94aab2d2f00f5c92ee, type: 2}
+    - {fileID: 11400000, guid: 77be409500c03da4ab6821c572719e78, type: 2}

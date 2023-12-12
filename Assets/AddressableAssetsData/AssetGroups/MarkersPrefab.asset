@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: MarkersPrefab
+  m_EditorClassIdentifier: 
+  m_GroupName: MarkersPrefab
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 09369321ea3d4ac4e8f97b0fa9eea440
+  m_SerializeEntries:
+  - m_GUID: b5284200b38e5bf408741d7669714edf
+    m_Address: CoinSpawnMarker.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MarkerPrefab
+  - m_GUID: 52a6381fa7f1cf540aab4c248fdf20e4
+    m_Address: PillarLampSpawnMarker.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MarkerPrefab
+  - m_GUID: b52c8482f1c93bc4c8c01d9fc69b530f
+    m_Address: WallLampSpawnMarker.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MarkerPrefab
+  - m_GUID: 0a47cd86b138b6b43836286ab4e472c9
+    m_Address: Wrench-SpawnMarker.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MarkerPrefab
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 092b6313807db40e39015dd890221d5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c9b165ca08491614d90e95ae097cedda, type: 2}
+    - {fileID: 11400000, guid: 9dd27842d71585f4e8a544d365021dec, type: 2}

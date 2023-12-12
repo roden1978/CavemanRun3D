@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a93b75fd27e23440a6a70978566198f, type: 3}
+  m_Name: WallLampPattern
+  m_EditorClassIdentifier: 
+  PatternGroup: 40
+  ObjectSpawners:
+  - Id: WallLampSpawnMarker_14deb268-7426-4f57-905c-b3ade1c117d0
+    Name: WallLampPattern-WallLampPattern-WallLampPattern-WallLampSpawnMarker (1)
+    GameObjectsTypeId: 5
+    LocalPosition: {x: 3, y: 2, z: -7.14}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Id: WallLampPattern-WallLampPattern-WallLampSpawnMarker (2)_6cd4fe82-1dd8-4034-8e07-49323d31056f
+    Name: WallLampPattern-WallLampPattern-WallLampPattern-WallLampSpawnMarker (2)
+    GameObjectsTypeId: 5
+    LocalPosition: {x: -3, y: 2, z: 1.62}
+    Rotation: {x: 0, y: 1, z: 0, w: 0}
+  - Id: WallLampPattern-WallLampPattern-WallLampSpawnMarker (3)_82f32941-0139-4b13-b243-1b6b81165877
+    Name: WallLampPattern-WallLampPattern-WallLampPattern-WallLampSpawnMarker (3)
+    GameObjectsTypeId: 5
+    LocalPosition: {x: -3, y: 2, z: -7.14}
+    Rotation: {x: 0, y: 1, z: 0, w: 0}
+  - Id: WallLampPattern-WallLampPattern-WallLampSpawnMarker (4)_d610c51d-81a0-42d4-b7f2-d6235de6a537
+    Name: WallLampPattern-WallLampPattern-WallLampPattern-WallLampSpawnMarker (4)
+    GameObjectsTypeId: 5
+    LocalPosition: {x: 3, y: 2, z: 1.62}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+  TunnelPrefabName: ETunnel

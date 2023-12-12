@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PooledObjects
+  m_EditorClassIdentifier: 
+  m_GroupName: PooledObjects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 13fc21adeeaabd04db9cb7afdbbc2365
+  m_SerializeEntries:
+  - m_GUID: 4f8389b98e323b3449b8b2ee2095be78
+    m_Address: PillarLamp.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51de3ee22fd06524b94f77bedbcc73d5
+    m_Address: PlatformWithoutSteps.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea0010501118d884fa5b078a6fbc6a04
+    m_Address: WallLamp.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01f051cf280de4b4fa88d25c35a8af31
+    m_Address: Coin.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b543c816b78015e44b5015feeb30d4ab
+    m_Address: ObjectSpawner.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73cd9107e53626941914356e918466ae
+    m_Address: FbxWrench.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 092b6313807db40e39015dd890221d5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 48f952413ab9cf74aa5a9f809b3b74ef, type: 2}
+    - {fileID: 11400000, guid: 1290a4f15a39db044acfad59c35af0d8, type: 2}

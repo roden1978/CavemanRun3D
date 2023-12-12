@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbc6e740b908ce94191971e64f686901, type: 3}
+  m_Name: MusicLoadData
+  m_EditorClassIdentifier: 
+  Source:
+    m_AssetGUID: 0b001915f92d1f44da6f0d9f12b5f489
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  StartPosition: {x: 0, y: 0, z: 0}
+  Tracks:
+  - {fileID: 8300000, guid: 591bbe4870fb67e45ac583f2ce22d055, type: 3}
+  - {fileID: 8300000, guid: eeef7fd704787f54aaa4eeb1330d8e3e, type: 3}
+  - {fileID: 8300000, guid: 2e1d72eb16cf8164ab56e6d141da2d59, type: 3}
+  - {fileID: 8300000, guid: 9f14b43774832d940be0403f2998c1f1, type: 3}
+  - {fileID: 8300000, guid: 4e3db0746a3a63249b6fd17040e0382f, type: 3}
+  FirstTrackNumber: 3

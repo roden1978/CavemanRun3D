@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9831f79dd18f42942bf6b453980f5f3b, type: 3}
+  m_Name: TestLoadData
+  m_EditorClassIdentifier: 
+  TransportShipPrefab:
+    m_AssetGUID: 635d97592be7945f2935e206d5e22cbd
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  testEnumType: 2
+  exampleCharacteristic:
+    Name: 
+    StaffCountForLittleShip: 5
+    StaffCountForMiddleShip: 10
+    StaffCountForLargeShip: 20
+  exampleMovingData:
+    ShipSpeed: 10
+    TimeToStayNearDock: 5
+    ShipSpawnPosition: {x: 0, y: 0}
+    ShipParkingPosition: {x: 5, y: 0}
+    ShipReturnPosition: {x: 0, y: 5}

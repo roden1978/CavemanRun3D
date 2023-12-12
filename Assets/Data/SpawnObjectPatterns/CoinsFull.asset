@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a93b75fd27e23440a6a70978566198f, type: 3}
+  m_Name: CoinsFull
+  m_EditorClassIdentifier: 
+  PatternGroup: 10
+  ObjectSpawners:
+  - Id: CoinsFull-CoinSpawnMarker (4)_1b66757d-792c-4071-aadc-7f4c4f1f265b
+    Name: CoinsFull-CoinsFull-CoinSpawnMarker (4)
+    GameObjectsTypeId: 2
+    LocalPosition: {x: 0, y: 0, z: 3}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  - Id: CoinsFull-CoinSpawnMarker (3)_39c266f0-9f51-4714-8ee2-be6bd3b56bdc
+    Name: CoinsFull-CoinsFull-CoinSpawnMarker (3)
+    GameObjectsTypeId: 2
+    LocalPosition: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  - Id: CoinsFull-CoinSpawnMarker (2)_5bcfdb3d-91b2-42f8-bd57-fd01214b890d
+    Name: CoinsFull-CoinsFull-CoinSpawnMarker (2)
+    GameObjectsTypeId: 2
+    LocalPosition: {x: 0, y: 0, z: -3}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  - Id: CoinsFull-CoinSpawnMarker (6)_117d0891-a743-4108-a9c9-e245d1484ddf
+    Name: CoinsFull-CoinsFull-CoinSpawnMarker (6)
+    GameObjectsTypeId: 2
+    LocalPosition: {x: -2, y: 0, z: 9}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  - Id: CoinsFull-CoinSpawnMarker (5)_6dbdd71d-9dad-4160-9a9b-15dc901f9cd5
+    Name: CoinsFull-CoinsFull-CoinSpawnMarker (5)
+    GameObjectsTypeId: 2
+    LocalPosition: {x: -2, y: 0, z: 6}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  - Id: CoinsFull-CoinSpawnMarker (4)_aa454003-064f-4bba-82a5-ef17a8178695
+    Name: CoinsFull-CoinsFull-CoinSpawnMarker (4)
+    GameObjectsTypeId: 2
+    LocalPosition: {x: -2, y: 0, z: 3}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  - Id: CoinsFull-CoinSpawnMarker (2)_9be35b09-ecc7-4f3b-abbc-eae58c896fbf
+    Name: CoinsFull-CoinsFull-CoinSpawnMarker (2)
+    GameObjectsTypeId: 2
+    LocalPosition: {x: 2, y: 0, z: -3}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  - Id: CoinSpawnMarker_cc838755-1b81-4991-8ffc-fca1ce64823f
+    Name: CoinsFull-CoinsFull-CoinSpawnMarker (1)
+    GameObjectsTypeId: 2
+    LocalPosition: {x: 2, y: 0, z: -6}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  - Id: CoinsFull-CoinSpawnMarker_1adf5564-c501-4789-aedf-85dcf47daa9b
+    Name: CoinsFull-CoinsFull-CoinSpawnMarker
+    GameObjectsTypeId: 2
+    LocalPosition: {x: 2, y: 0, z: -9}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  TunnelPrefabName: ETunnel

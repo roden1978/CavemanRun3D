@@ -1,0 +1,3 @@
+namespace HalfDiggers {
+    struct ControlledByPlayer { }
+}
